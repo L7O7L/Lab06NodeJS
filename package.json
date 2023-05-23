@@ -1,0 +1,28 @@
+{
+  "name": "lab06-lbaltazar",
+  "version": "0.0.4",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "directories": {
+
+    "lib": "src"
+
+  },
+  "files": [
+
+    "dist",
+    "src"
+
+  ],
+  "scripts": {
+    "test": ""
+  },
+  "keywords": [],
+  "author": "Baltazar Segura Luis David Jesus",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.29.4",
+    "prompt-sync": "^4.2.0"
+  }
+}
